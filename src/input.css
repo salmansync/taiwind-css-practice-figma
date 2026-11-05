@@ -3,4 +3,6 @@
 @theme {
   --font-family-Inter: "Inter", sans-serif;
   --font-family-Bebas-Neue: "Bebas Neue", sans-serif;
+  --spacing-Mycontainer: 1320px;
+  --color-Primary: #07110D;
 }
